@@ -1,3 +1,7 @@
+## Repository Languages
+- Jupyter Notebook
+- PySpark
+
 # Building an Azure Synapse Studio Data Pipeline for Profit Calcuation Analysis
 
 In this project, I'll walk through the process of creating a Azure Synapse Studio data pipeline focused on calculating total profits from the classic Superstore dataset, sourced from Tableau. Our goal is to obtain region-wise profit insights, specifically after filtering out the returned orders.
